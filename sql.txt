@@ -9,3 +9,5 @@ un registro es una entodad horizontal en una tabla
 una columna es ua¿na entidad vertical en una tabla que contiene todo la información asociada con un campo especifico en una tabla 
 
 las tablas contienen registro(fila) datos
+
+hello
