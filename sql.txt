@@ -11,3 +11,5 @@ una columna es ua¿na entidad vertical en una tabla que contiene todo la informa
 las tablas contienen registro(fila) datos
 
 hello
+
+se introdujo un archivo hmtl y css
