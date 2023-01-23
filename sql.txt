@@ -1,0 +1,11 @@
+cada tabla se divide en entodades más pequeñas llamados campos
+
+un campo es una columna en una tabla que esta diseñada para mantener informacion especifica sobre cada 
+registro en la tabla
+
+un registro tambien llamado fila, es cada entrda individual que existe en una tabla
+un registro es una entodad horizontal en una tabla
+
+una columna es ua¿na entidad vertical en una tabla que contiene todo la información asociada con un campo especifico en una tabla 
+
+las tablas contienen registro(fila) datos
