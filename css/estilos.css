@@ -3,18 +3,27 @@ body
     color: black;
     text-align: center;
     font-family: "arial";
-    font-size: large;
+    font-size: 16px;
     margin: 0%;
     padding: 0%;
 
 }
 
+#cabecera
+{
+    background: #33c;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.Sem;
+}
+
 #contair 
 {
     width: 70%;
-    padding: 1cm;
+    padding: 0;
     text-align: left;
-    border: 11px solid black;
+    border: 1px solid #ddd;
     margin: 0 auto;
 }
 
@@ -23,3 +32,30 @@ body
     font-size:  20px;
 
 }
+
+#post
+{
+    padding: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
